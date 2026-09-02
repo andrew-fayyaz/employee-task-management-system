@@ -4,6 +4,14 @@
   color: #fff;
 }
 
+body {
+  background-color: black;
+}
+
+button {
+  cursor: pointer;
+}
+
 #tasklist::-webkit-scrollbar {
   display: none;
 }
