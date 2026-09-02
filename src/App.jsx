@@ -1,9 +1,11 @@
-import Login from "./components/auth/Login";
+import AdminDashboard from "./components/dashboard/AdminDashboard";
 
 function App() {
   return (
     <>
-      <Login />
+      {/* <Login /> */}
+      {/* <EmployeeDashboard /> */}
+      <AdminDashboard />
     </>
   );
 }
